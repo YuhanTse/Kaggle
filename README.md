@@ -1,11 +1,16 @@
 # Kaggle
 
-I want to record some of my kaggle projects here. 
-Some projects are in collaboration with Reia Hsu.
-Although there are still many deficiencies at present, I hope to improve with my progress.
+#### I want to record some of my kaggle projects here.<br/>
 
-The following is a list of project names:
-1.Titanic (classic one)
-2.Spaceship Titanic (Advanced version of Titanic)
-3.House Price (still have some problems)
+#### Although there are still many deficiencies at present, I hope to improve with my progress.<br/>
+
+Some projects are in collaboration with Reia Hsu.<br/>
+
+#### <br/>
+
+<u>The following is a list of project names:</u>
+
+<br/>1.Titanic (classic one)<br/>
+2.Spaceship Titanic (Advanced version of Titanic)<br/>
+3.House Price (still have some problems)<br/>
 4.
