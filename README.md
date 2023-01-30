@@ -4,7 +4,7 @@
 
 ### Although there are still many deficiencies at present, I hope to improve with my progress.<br/>
 
-Some projects are in collaboration with Reia Hsu.<br/>
+<br/>
 
 <br/>
 
