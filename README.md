@@ -12,10 +12,14 @@
 
 1.Titanic (classic one)<br/>
 
-2.Spaceship Titanic (Advanced version of Titanic)<br/>
+2.Spaceship Titanic (advanced version of Titanic)<br/>
 
 3.House Price (still have some problems)<br/>
 
-4.xxx
+4.FinancialRiskControl(recorded by others)<br/>
 
-5.xxx
+5.SecondHandCarPriceForecast(recorded by others)<br/>
+
+6.HeartbeatClassification(recorded by others)<br/>
+
+7.Store Sales - Time Series Forecasting(just baseline)<br/>
