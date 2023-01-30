@@ -16,10 +16,10 @@
 
 3.House Price (still have some problems)<br/>
 
-4.FinancialRiskControl(recorded by others)<br/>
+4.Financial Risk Control(recorded by others)<br/>
 
-5.SecondHandCarPriceForecast(recorded by others)<br/>
+5.SecondHand Car Price Forecast(recorded by others)<br/>
 
-6.HeartbeatClassification(recorded by others)<br/>
+6.Heartbeat Classification(recorded by others)<br/>
 
 7.Store Sales - Time Series Forecasting(just baseline)<br/>
