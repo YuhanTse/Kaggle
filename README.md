@@ -23,3 +23,5 @@
 6.Heartbeat Classification(recorded by others)<br/>
 
 7.Store Sales - Time Series Forecasting(just baseline)<br/>
+
+8.HappinessClassification
