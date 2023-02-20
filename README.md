@@ -20,10 +20,13 @@ From kaggle<br/>
 From kaggle<br/>
 
 4.Financial Risk Control(recorded by others)<br/>
+https://tianchi.aliyun.com/competition/entrance/531830/introduction?spm=5176.12281925.0.0.7b5c7137lM8bSR<br/>
 
 5.SecondHand Car Price Forecast(recorded by others)<br/>
+https://tianchi.aliyun.com/competition/entrance/231784/introduction?spm=5176.12281925.0.0.7b237137hcfhxK<br/>
 
 6.Heartbeat Classification(recorded by others)<br/>
+https://tianchi.aliyun.com/competition/entrance/531883/introduction?spm=5176.12281925.0.0.7b237137hcfhxK<br/>
 
 7.Store Sales - Time Series Forecasting(just baseline)<br/>
 From kaggle<br/>
