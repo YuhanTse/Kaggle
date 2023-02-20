@@ -25,3 +25,7 @@
 7.Store Sales - Time Series Forecasting(just baseline)<br/>
 
 8.HappinessClassification
+https://tianchi.aliyun.com/competition/entrance/231702/introduction?spm=5176.12281925.0.0.7b5c7137lM8bSR<br/>
+
+9.金融数据分析赛题1：银行客户认购产品预测
+https://tianchi.aliyun.com/competition/entrance/531993/introduction<br/>
