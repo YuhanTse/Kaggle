@@ -42,3 +42,4 @@ https://tianchi.aliyun.com/competition/entrance/532059/information<br/>
 
 11.Digit Recognizer(from kaggle)<br/>
 
+12.Toxic Comment Classification Challenge(from kaggle)<br/>
