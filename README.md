@@ -38,7 +38,7 @@ https://tianchi.aliyun.com/competition/entrance/231702/introduction?spm=5176.122
 https://tianchi.aliyun.com/competition/entrance/531993/introduction<br/>
 
 10.金融数据分析赛题2：保险反欺诈预测<br/>
-https://tianchi.aliyun.com/competition/entrance/532059/information<br/>
+https://tianchi.aliyun.com/competition/entrance/531994/introduction?spm=5176.12281973.1005.21.3dd52448vSKXI0<br/>
 
 11.Digit Recognizer(from kaggle)<br/>
 
